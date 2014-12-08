@@ -1,0 +1,26 @@
+SAMPLE JSON 1:
+********************
+
+{
+    "FormID": "MyForm",
+    "ProjectID": "MyWebsite.com",
+    "FormData": "{'FirstName':'Pankaj', 'LastName':'Gaur','Email':'pankajgaur@outlook.com'}",
+    "UserIP": "",
+    "UserLocation": "",
+    "Format": "",
+    "SubmitDate": ""
+}
+
+
+SAMPLE JSON 2:
+********************
+
+{
+    "FormID": "MyForm",
+    "ProjectID": "MyWebsite.com",
+    "FormData": "{'FirstName':'Pankaj', 'LastName':'Gaur','Email':'pankajgaur@outlook.com', 'Address':'\"Address1\":\"AL1\",\"Address2\":\"MyStreet\",\"City\":\"New Delhi\", \"State\":\"New Delhi\",\"ZIP\":\"110044\"'}",
+    "UserIP": "",
+    "UserLocation": "",
+    "Format": "",
+    "SubmitDate": ""
+}
